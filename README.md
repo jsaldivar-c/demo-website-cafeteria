@@ -1,4 +1,4 @@
-# Sitio web demo de cafeteria
+# Sitio Web Demo Cafeteria
 
 ## Se utilizo:
 
@@ -6,3 +6,7 @@
 > - CSS
 > - SASS
 > - JQUERY
+
+Desarrollado en el curso **Udemy | Desarrollo Web | Carlos Arturo Esparza**
+
+Modificaciones basicas y realización de la practica: **José Saldivar**
