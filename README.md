@@ -1,12 +1,30 @@
-# Sitio Web Demo Cafeteria
+# **Sitio Web Demo Cafeteria**
 
-## Se utilizo:
+![Demo Cafeteria](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602003220/cafeteria-demo-website_2_yv5ew2.png "Demo Cafeteria")
 
-> - HTML
-> - CSS
-> - SASS
-> - JQUERY
+![Demo Cafeteria](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602003220/cafeteria-demo-website_3_tin1ae.png "Demo Cafeteria")
 
-Desarrollado en el curso **Udemy | Desarrollo Web | Carlos Arturo Esparza**
+![Demo Cafeteria](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602003221/cafeteria-demo-website_1_xplqmz.png "Demo Cafeteria")
 
-Modificaciones basicas y realización de la practica: **José Saldivar**
+Web demo de una cafeteria.
+
+### **Tecnologías | Lenguajes de Programación | Herramientas | Frameworks | Librerias**
+
+> -   HTML5
+> -   CSS3
+> -   SASS
+> -   JavaScript
+> -   JQUERY
+
+### **Caracterisiticas**
+
+> -   Efecto parallax con JQuery.
+> -   Efectos basicos con JQuery.
+> -   Manipulación basica del DOM.
+> -   Sitio web basico informativo de una pagina.
+
+### Autor
+
+Desarrollado en el curso _**Udemy | Desarrollo Web | Carlos Arturo Esparza**_
+
+Modificaciones basicas y realización de la practica: _**José Saldivar**_
