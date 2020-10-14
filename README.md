@@ -1,10 +1,10 @@
 # **Sitio Web Demo Cafeteria**
 
-![Demo Cafeteria](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602003220/cafeteria-demo-website_2_yv5ew2.png "Demo Cafeteria")
+![Demo Cafeteria](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602003220/GitHub/cafeteria-demo-website_2_yv5ew2.png "Demo Cafeteria")
 
-![Demo Cafeteria](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602003220/cafeteria-demo-website_3_tin1ae.png "Demo Cafeteria")
+![Demo Cafeteria](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602003220/GitHub/cafeteria-demo-website_3_tin1ae.png "Demo Cafeteria")
 
-![Demo Cafeteria](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602003221/cafeteria-demo-website_1_xplqmz.png "Demo Cafeteria")
+![Demo Cafeteria](https://res.cloudinary.com/dlbfrbl8h/image/upload/v1602003221/GitHub/cafeteria-demo-website_1_xplqmz.png "Demo Cafeteria")
 
 Web demo de una cafeteria.
 
